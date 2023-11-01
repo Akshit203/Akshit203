@@ -8,6 +8,8 @@
 
 ### Tech Stack
 
+
+
 Programming Languages : C, C++, Java, Python, JavaScript
 
  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
@@ -42,6 +44,8 @@ Database : Mongo DB, MySQL
 
 ### Connect with Me
 
+
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshitgupta2003.ak@gmail.com@example.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/akshit-gupta-5b5889223))
@@ -51,6 +55,8 @@ Database : Mongo DB, MySQL
 
 
 ### My GitHub Stats
+
+
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshit203&show_icons=true&bg_color=ffffff)](https://github.com/Akshit203/github-readme-stats)
 
