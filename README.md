@@ -1,4 +1,6 @@
-### <h1 style="font-size: 36px;">Akshit Gupta </h1>
+### <h1 align="center">Akshit Gupta</h1>
+
+
 👨‍💻 Full Stack Developer 
 
 📚 Pursuing MCA | 🎓 BCA Graduate
