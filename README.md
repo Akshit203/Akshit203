@@ -2,7 +2,7 @@
 
 
 
-👨‍💻 Full Stack Developer 
+👨‍💻 Software Developer 
 
 📚 Pursuing MCA | 🎓 BCA Graduate
 
@@ -10,28 +10,24 @@
 
 
 
-Programming Languages : C, C++, Java, Python, JavaScript
+Programming Languages : Java, JavaScript, C++
 
- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+ ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
 
 
 
-Frontend Development : React, HTML, CSS, BootStrap
+Frontend Development : React Js, HTML, CSS
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
 
 
-Backend Development : Node Js, Spring
+Backend Development : Spring
 
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 
 
