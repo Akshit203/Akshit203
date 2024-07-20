@@ -10,11 +10,10 @@
 
 
 
-Programming Languages : Java, JavaScript, C++
+Programming Languages : Java, JavaScript
 
  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
 
 
 
@@ -32,9 +31,9 @@ Backend Development : Spring
 -->
 
 
-Database : Mongo DB, MySQL
+Database :  MySQL
 
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+<!---[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) -->
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 
