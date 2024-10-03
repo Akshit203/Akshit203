@@ -52,6 +52,6 @@ Database :  MySQL
 ### My GitHub Stats
 
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshit203&show_icons=true&bg_color=ffffff)](https://github.com/Akshit203/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshit203&show_icons=true&bg_color=ffffff&text_color=000000)](https://github.com/Akshit203)
 
 
