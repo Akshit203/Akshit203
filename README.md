@@ -6,6 +6,12 @@
 
 📚 Pursuing MCA | 🎓 BCA Graduate
 
+### My GitHub Stats
+
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshit203&show_icons=true&bg_color=ffffff&text_color=000000)](https://github.com/Akshit203)
+
+
 ### Tech Stack
 
 
@@ -48,10 +54,5 @@ Database :  MySQL
 
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.yourwebsite.com)
 
-
-### My GitHub Stats
-
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshit203&show_icons=true&bg_color=ffffff&text_color=000000)](https://github.com/Akshit203)
 
 
