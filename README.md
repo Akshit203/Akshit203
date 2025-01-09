@@ -9,7 +9,8 @@
 ### My GitHub Stats
 
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshit203&show_icons=true&bg_color=ffffff&text_color=000000)](https://github.com/Akshit203)
+[![GitHub Stats 2025](https://github-readme-stats.vercel.app/api?username=Akshit203&show_icons=true&bg_color=ffffff&text_color=000000&year=2025)](https://github.com/Akshit203)
+
 
 
 ### Tech Stack
