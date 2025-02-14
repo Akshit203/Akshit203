@@ -11,7 +11,7 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshit203&show_icons=true&bg_color=ffffff&text_color=000000&random=${Math.random()})](https://github.com/Akshit203)
 
-
+<!--
 
 ### Tech Stack
 
@@ -30,6 +30,7 @@ Frontend Development : React Js, HTML, CSS
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
+-->
 
 <!---
 Backend Development : Spring
@@ -45,15 +46,13 @@ Backend Development : Spring
 
 
 
-### Connect with Me
 
-
-
+<!--
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshitgupta2003.ak@gmail.com@example.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshit-gupta-5b5889223)
 
-<!-- [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.yourwebsite.com) -->
+ [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.yourwebsite.com) -->
 
 
 
