@@ -2,10 +2,6 @@
 
 
 
-👨‍💻 Software Developer 
-
-📚 Pursuing MCA | 🎓 BCA Graduate
-
 ### My GitHub Stats
 
 
