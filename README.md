@@ -3,8 +3,7 @@
 
 
 ### My GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshit203&show_icons=true&count_private=true&bg_color=ffffff&text_color=000000&title_color=000000&icon_color=000000&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshit203&show_icons=true&count_private=true&include_all_commits=true&bg_color=ffffff&text_color=000000&title_color=000000&icon_color=000000)
 
 <!--
 
