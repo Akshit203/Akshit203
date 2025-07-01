@@ -1,6 +1,6 @@
 ### <h1 style="font-size: 36px;">Akshit Gupta</h1>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshit203&show_icons=true&theme=default)
+![Akshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshit203&show_icons=true&count_private=true&include_all_commits=true&theme=default)
 
 <!--
 
